@@ -3,7 +3,7 @@ Avalanche Viewer by LOCKB0X LLC
 
 Overview
 
-Welcome to the LOCKB0X Avalanche Dapp Viewer, a decentralized application designed to enable secure decryption and viewing of files and contextual receipts tied to Avalanche transactions. Our platform leverages Avalanche’s high-performance infrastructure to empower users with immutable, encrypted records across various use cases, such as construction control, financial audit trails, medical records, legal contracts, and more.
+Welcome to the LOCKB0X Avalanche Viewer, a decentralized application designed to enable secure decryption and viewing of files and contextual receipts tied to Avalanche transactions. Our platform leverages Avalanche’s high-performance infrastructure to empower users with immutable, encrypted records across various use cases, such as construction control, financial audit trails, medical records, legal contracts, and more.
 
 The Dapp Viewer ensures that users can decrypt, view, and download encrypted files tied to their Avalanche wallet without reliance on centralized platforms.
 
