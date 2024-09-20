@@ -21,13 +21,13 @@ Getting Started
 
 Coming Soon
 
-The LOCKB0X Avalanche Dapp Viewer is currently under development, with a public release expected by the end of 2024. At that time, we will provide full installation instructions and access to the source code.
+The LOCKB0X Avalanche Viewer is currently under development, with a public release expected by the end of 2024. At that time, we will provide full installation instructions and access to the source code.
 
 To stay informed about the project’s progress, please watch this repository for updates or visit the [LOCKB0X](https://www.lockb0x.io) website.
 
 Roadmap
 
-We are committed to making the Dapp Viewer as robust and user-friendly as possible. Here’s what you can expect:
+We are committed to making the AVAX Viewer as robust and user-friendly as possible. Here’s what you can expect:
 
 •	Beta Release: Scheduled for late 2024, featuring core functionality for file decryption and contextual receipt viewing.
 
@@ -45,7 +45,7 @@ While we prepare for the public release, we’re excited to hear your ideas and 
 
 License
 
-This project will be licensed under the MIT License - details will be provided upon public release.
+This project is licensed under the MIT License - details will be provided upon public release.
 
 Contact
 
